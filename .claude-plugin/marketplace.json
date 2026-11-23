@@ -6,8 +6,8 @@
   "plugins": [
     {
       "name": "emil-skills",
-      "source": ".",
-      "description": "A collection of design, animation, UI, and development skills."
+      "source": "./",
+      "description": "Design, animation, UI and development skills"
     }
   ]
 }
