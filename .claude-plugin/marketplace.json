@@ -1,0 +1,13 @@
+{
+  "name": "suviscool-skills",
+  "owner": {
+    "name": "suviscool"
+  },
+  "plugins": [
+    {
+      "name": "emil-skills",
+      "source": ".",
+      "description": "A collection of design, animation, UI, and development skills."
+    }
+  ]
+}
